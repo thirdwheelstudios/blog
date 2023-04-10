@@ -11,16 +11,6 @@ export default defineConfig({
       { text: "About", link: "/about" },
     ],
 
-    sidebar: [
-      {
-        text: "Examples",
-        items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
-        ],
-      },
-    ],
-
     socialLinks: [
       { icon: "github", link: "https://github.com/thirdwheelstudios" },
       { icon: "twitter", link: "https://twitter.com/3rdwheelstudios" },
