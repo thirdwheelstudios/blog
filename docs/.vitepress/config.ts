@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress"
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: "en-GB",
   title: "thirdwheel studios",
   description: "A blog for thirdwheel studios updates",
   themeConfig: {
