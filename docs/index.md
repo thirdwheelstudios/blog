@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "thirdwheel blog"
-  text: "A technology blog for thirdwheel studios"
+  text: "A blog for thirdwheel studios updates"
   tagline: My great project tagline
   actions:
     - theme: brand
