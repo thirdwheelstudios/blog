@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "thirdwheel studios"
+  name: "thirdwheel blog"
   text: "A blog for thirdwheel studios updates"
 
 features:
