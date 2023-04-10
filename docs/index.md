@@ -3,14 +3,6 @@
 layout: home
 
 hero:
-  name: "thirdwheel blog"
-  text: "A blog for thirdwheel studios updates"
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  name: 'thirdwheel blog'
+  text: 'the latest news from thirdwheel studios'
 ---
