@@ -7,10 +7,7 @@ export default defineConfig({
   description: 'A blog for thirdwheel studios updates',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Blog', link: '/' },
-      { text: 'About', link: '/about' },
-    ],
+    nav: [{ text: 'Blog', link: '/' }],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/thirdwheelstudios' },
