@@ -8,4 +8,4 @@ Stay tuned for more updates!
 
 ## Need to get in touch?
 
-Check out our social links for Twitter and GitHub. Or if you'd prefer, drop us an email at social&#064;thirdhweelstudios.com
+Check out our social links for Twitter and GitHub. Or if you'd prefer, drop us an email at social&#064;thirdwheelstudios.com
